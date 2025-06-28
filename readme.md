@@ -1,15 +1,20 @@
-# Welcome 👋
+## Welcome 👋
 
 - Currently learning DevOps and enhancing my Python skills.
-- Founder and developer of [Magical Romania Roleplay](https://discord.gg/An5pSBdSha).
+- Founder and developer of [Magical Romania Roleplay](https://discord.gg/magicalro).
 - Looking for people to collaborate with on our FiveM server.
-- Mainly working in JavaScript / TypeScript environments.
+- Mainly working with TypeScript and Python
 
-## 🔗 Links
+### 🔧 Skills
 
-📧 Email: [roanflo05@gmail.com](mailto:roanflo05@gmail.com) <br>
-📞 Discord: andreutu
+[![Skills](https://skillicons.dev/icons?i=lua,python,nodejs,js,ts,html,css,react,mysql,mongodb)](https://skillicons.dev)
 
-![andreutu's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreutu&theme=github_dark)
+### 📊 Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=andreutu&theme=github-dark-blue)](https://git.io/streak-stats)
+![andreutu's Stats](https://github-readme-stats.vercel.app/api?username=andreutu&theme=dark&show_icons=true&hide_border=true&count_private=false)
+
+### 🔗 Links
+
+Email: [roanflo05@gmail.com](mailto:roanflo05@gmail.com) <br>
+Behance: [behance.net/andreutu](https://behance.net/andreutu) (inactive) <br>
+Discord: andreutu
